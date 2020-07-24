@@ -128,9 +128,76 @@ Calibration Telescope
 ----------------------
 
 
+The calibration telescope project contemplates a connection of 12 single mode optical fibers form the computer room in the main bulding.
+
+These fiber optic connections include an optical header inside the AuxTel rack.
+
+The connection type of these fibers are LC full duplex UPC conectores.
+
+The calibration telescope bulding consists of 2 floors.
 
 
 
+In the Auxtel Bulding on the floors, it has the following characteristics in terms of materials and numbering of network points.
+
+
+- 35 Network points in total
+- 2 Access points
+- 1 Boxed VoIP
+- 2 24-port patch panel with modular jack, category 6A
+- 1 Optical header with 12 SM OS2 optical fibers and LC Full-Duplex UPC connectors
+- 2 24-port switch
+- 1 42U rack
+- 2 PDUs
+
+
+Network point diagram at the location of the first and second floors of the rack with the connection components.
+
+
+First Floor Image:
+^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+
+
+Second Floor Image:
+^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+Villa Pachon
+--------------
+
+The project to connect the sector of the Villa Pachon arose form the need to provide a secure and reliable connection to these sectors.
+
+The idea is to install a 24-strand fibers optics cable form the computer room in rack A7 to the sector of the Villa Pachon.
+
+In Villa Pachon the places to connect and trir respective optical fibers are:
+
+
+- Rubin Casino     F.O 1-2-3-4
+- Water Control    F.O 5-6-7-8 
+- Ex-Besalco       F.O 9-10-11-12
+- Villa Generator  F.O 13-14-15-16
+- Earthcam         F.O 17-18-19-20
+- Mirror Shed      F.O 21-22-23-24
+
+
+
+Them. Imagen with connections in the sector considered as Villa Pachon project.
+
+The previous imagen shows the finished Villa Pachon project and with Their respective fiber optics.
+
+
+At this time, project is under contruction and we project thas is should en like this in the drawing.
+
+
+Villa Pachon Image
+^^^^^^^^^^^^^^^^^^
 
 
 
