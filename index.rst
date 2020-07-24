@@ -73,8 +73,8 @@ Places to treat the document
 The places covered in this document are as follows:
 
 - Calibration Hill
-- AuxTel
 - Villa Pachon
+- Generator Main
 
 
 This document details the connections for both copper and fiber optic floors.
@@ -170,7 +170,8 @@ Second Floor Image:
 
 
 Villa Pachon
---------------
+=============
+
 
 The project to connect the sector of the Villa Pachon arose form the need to provide a secure and reliable connection to these sectors.
 
@@ -197,9 +198,46 @@ At this time, project is under contruction and we project thas is should en like
 
 
 Villa Pachon Image
-^^^^^^^^^^^^^^^^^^
+--------------------
 
 
+
+
+
+
+
+
+Main Generator
+================
+
+
+In the project to connect the main generator, it was born form the idea of monitoring it is operation.
+
+It was implemented to install a single mode 24-strand fiber optic cable and to connect a 12-strand optical terminal with LC UPC connector.
+
+A protective box with an industrial switch with 8 ports was also installed.
+
+we took advantage of installing a phone with a protective box and also an access point and a surveillance camera and seeing the generator working in the image.
+
+This connection comes from the second floor of the main building through the first flooe optical terminal ( inside the first floor optical terminal the cable to the generator is spliced with the 12-strand vacant of the first floor optical terminal.
+
+
+
+The generator contains the following connections:
+
+- 1 Camera Connection
+- 1 Access point Connection
+- 1 VoIP Connection
+- 1 Monitoring connection to the Generator
+
+
+
+It should be noted that these connections were made witch Cat6 and Cat6A cable and it comes directly form the industrial switch ( We do not have a patch panel in this generator project).
+
+
+
+Main Generator Image
+---------------------
 
 
 
