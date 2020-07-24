@@ -67,10 +67,65 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 
 
+Places to treat the document
+----------------------------------------
+
+The places covered in this document are as follows:
+
+- Calibration Hill
+- AuxTel
+- Villa Pachon
+
+
+This document details the connections for both copper and fiber optic floors.
+
+
+To repost, all fiber optic connections come form floor 2 in the computer room on rack A7.
+In this rack, all optical headers are concentrated to connect different points of the calibration hill and the villa patch.
+
+
+Calibration Hill
+=================
+
+In the calibration hill, we find the following projects.
+
+
+- Auxtel
+- Weather Tower
+- DIMM
+- All Sky Camera
+
+
+Exterior Calibracion Hill
+---------------------------
+
+
+These 4 locations are connected by a single mode 24-strand fibers optics caable form the computer room.
+
+A mufa splice was installed in the exteral pullbox on the calibration hill. Where it is separated into 4 cables and each fiber optic cable is routed to each location as the image shows
+
+
+Calibration Hill image
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
 
+
+
+As For the numbering of Fibers optics form the 24-strand cable form the main bulding, it is broken down in this way.
+
+
+- 1 - 12          Fiber optics for AuxTel
+- 13-14-15-16     Fiber optics for Weather Tower
+- 17-18-19-20     Fiber optics for DIMM
+- 21-22-23-24     Fiber optics for All Sky Camera
+
+
+
+
+Calibration Telescope
+----------------------
 
 
 
