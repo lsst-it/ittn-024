@@ -67,6 +67,18 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 
 
+
+.. figure:: /_static/ittn-024/Tabla.PNG
+    :name: Tabla
+            :width: 700 px
+            
+
+
+
+
+
+
+
 Places to treat the document
 ----------------------------------------
 
