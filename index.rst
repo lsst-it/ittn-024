@@ -70,7 +70,7 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 .. figure:: /_static/ittn-024/Tabla.PNG
     :name: Tabla
-            :width: 400 px
+            :width: 700 px
             
             
 
@@ -121,6 +121,9 @@ A mufa splice was installed in the exteral pullbox on the calibration hill. Wher
 Calibration Hill image
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/ittn-024/Colina-Aux.PNG
+    :name: Colina
+            :width: 700 px
 
 
 
@@ -170,6 +173,9 @@ Network point diagram at the location of the first and second floors of the rack
 First Floor Image:
 ^^^^^^^^^^^^^^^^^^^
 
+.. figure:: /_static/ittn-024/AuxTel-1.jpg
+    :name: piso1
+            :width: 700 px
 
 
 
@@ -178,6 +184,10 @@ First Floor Image:
 
 Second Floor Image:
 ^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/ittn-024/AuxTel-2.jpg
+    :name: piso2
+            :width: 700 px
 
 
 
@@ -215,6 +225,16 @@ Villa Pachon Image
 
 
 
+.. figure:: /_static/ittn-024/Villa-1.PNG
+    :name: Villa
+            :width: 700 px
+
+
+
+
+
+
+
 
 
 
@@ -228,7 +248,7 @@ In the project to connect the main generator, it was born form the idea of monit
 
 It was implemented to install a single mode 24-strand fiber optic cable and to connect a 12-strand optical terminal with LC UPC connector.
 
-A protective box with an industrial switch with 8 ports was also installed.
+A protective box with an industrial switch with 8 ports was also installed
 
 we took advantage of installing a phone with a protective box and also an access point and a surveillance camera and seeing the generator working in the image.
 
@@ -252,6 +272,9 @@ It should be noted that these connections were made witch Cat6 and Cat6A cable a
 Main Generator Image
 ---------------------
 
+.. figure:: /_static/ittn-024/Main-G.PNG
+    :name: Generator
+            :width: 700 px
 
 
 
