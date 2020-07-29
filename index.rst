@@ -68,7 +68,7 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 
 
-.. figure:: /_static/ittn-024/Tabla.PNG
+.. figure:: /_static/Tabla.PNG
     :name: Tabla
             :width: 700 px
             
@@ -121,7 +121,7 @@ A mufa splice was installed in the exteral pullbox on the calibration hill. Wher
 Calibration Hill image
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/ittn-024/Colina-Aux.PNG
+.. figure:: /_static/Colina-Aux.PNG
     :name: Colina
             :width: 700 px
 
@@ -173,7 +173,7 @@ Network point diagram at the location of the first and second floors of the rack
 First Floor Image:
 ^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/ittn-024/AuxTel-1.jpg
+.. figure:: /_static/AuxTel-1.jpg
     :name: piso1
             :width: 700 px
 
@@ -185,7 +185,7 @@ First Floor Image:
 Second Floor Image:
 ^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /_static/ittn-024/AuxTel-2.jpg
+.. figure:: /_static/AuxTel-2.jpg
     :name: piso2
             :width: 700 px
 
@@ -225,7 +225,7 @@ Villa Pachon Image
 
 
 
-.. figure:: /_static/ittn-024/Villa-1.PNG
+.. figure:: /_static/Villa-1.PNG
     :name: Villa
             :width: 700 px
 
@@ -272,7 +272,7 @@ It should be noted that these connections were made witch Cat6 and Cat6A cable a
 Main Generator Image
 ---------------------
 
-.. figure:: /_static/ittn-024/Main-G.PNG
+.. figure:: /_static/Main-G.PNG
     :name: Generator
             :width: 700 px
 
