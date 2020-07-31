@@ -69,8 +69,8 @@ On some occasions, the multimode cable will be installed, only on the occasions 
 
 
 .. figure:: /_static/Tabla.PNG
-    :name: Tabla
-            :width: 700 px
+   :name: Tabla
+   :width: 700 px
             
             
 
@@ -122,8 +122,8 @@ Calibration Hill image
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/Colina-Aux.PNG
-    :name: Colina
-            :width: 700 px
+   :name: Colina
+   :width: 700 px
 
 
 
@@ -174,8 +174,8 @@ First Floor Image:
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/AuxTel-1.jpg
-    :name: piso1
-            :width: 700 px
+   :name: piso1
+   :width: 700 px
 
 
 
@@ -186,8 +186,8 @@ Second Floor Image:
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/AuxTel-2.jpg
-    :name: piso2
-            :width: 700 px
+   :name: piso2
+   :width: 700 px
 
 
 
@@ -226,8 +226,8 @@ Villa Pachon Image
 
 
 .. figure:: /_static/Villa-1.PNG
-    :name: Villa
-            :width: 700 px
+   :name: Villa
+   :width: 700 px
 
 
 
@@ -273,8 +273,8 @@ Main Generator Image
 ---------------------
 
 .. figure:: /_static/Main-G.PNG
-    :name: Generator
-            :width: 700 px
+   :name: Generator
+   :width: 700 px
 
 
 
