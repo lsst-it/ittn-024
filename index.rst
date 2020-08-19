@@ -143,19 +143,19 @@ As For the numbering of Fibers optics form the 24-strand cable form the main bul
 Calibration Telescope
 ----------------------
 
-
-The calibration telescope project contemplates a connection of 12 single mode optical fibers form the computer room in the main bulding.
-
-These fiber optic connections include an optical header inside the AuxTel rack.
-
-The connection type of these fibers are LC full duplex UPC conectores.
-
-The calibration telescope bulding consists of 2 floors.
+There are 12 single-mode fiber optic connections that exit the computer room and end up at the optical terminal located in the calibration telescope. 
 
 
+These fiber optic connections have and optical header that's located inside the Auxtel rack.
 
-In the Auxtel Bulding on the floors, it has the following characteristics in terms of materials and numbering of network points.
+These fiber optic connections utilize LC/UPC full duplex transmissions.
 
+The calibration telescope building consists of 2 floors.
+
+
+In the Auxtel building, the floors have the following characteristics in terms of the materials used and numbering of the various network points. 
+
+Auxtel
 
 - 35 Network points in total
 - 2 Access points
@@ -167,7 +167,7 @@ In the Auxtel Bulding on the floors, it has the following characteristics in ter
 - 2 PDUs
 
 
-Network point diagram at the location of the first and second floors of the rack with the connection components.
+The following network diagram, illustrates the connections and components for both the first and second floor of the Auxtel building utilizing the same rack.
 
 
 First Floor Image:
