@@ -56,7 +56,9 @@
 Introduction
 ============
 
-The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This document also reflects how the physical network of the main building is built by putting an emphasis on the fact that the project is still undergoing construction and may undergo changes in the near future such as adding additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that when the project is in the operations phase it will work at maximum performance. Single-mode fiber was selected and installed hence it provides an unlimited transmission limit, but this will only be used for the equipment that performs the function of transmitting (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to be able to work at 10GBASE-T speeds. All network points were installed with this type of cable, for both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was installed, and last but not least it is important to mention that on some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
+The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This documentation also reflects how the physical network of the calibration hill is built by putting an emphasis on the fact that the project is still undergoing construction and will undergo continuous changes in the near future. These changes include additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that the project can operate at maximum performance in the operations phase.
+
+Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
 
 
 
@@ -77,9 +79,9 @@ Areas of interest
 - Villa Pachon
 - Generator Main
 
-This document explains briefly the various connections used, both copper and fiber for the various areas located in Cerro Pachon.
+This document explains briefly the various connections used, both copper and fiber for the areas located in Cerro Pachon.
 
-As a reminder, all fiber optic connections are born inside the second floor of the computer room, specifically in rack A7. In this rack, all-optical headers are concentrated and connect to different areas of the calibration hill and villa pachon. 
+As a reminder, all fiber optic connections are born inside the second floor of the computer room in rack A7. In this rack, all-optical headers are concentrated and connect to different areas of the calibration hill and villa pachon. 
 
 
 Calibration Hill
@@ -96,7 +98,7 @@ The calibration hill is composed of the following areas:
 Exterior Calibracion Hill
 ---------------------------
 
-In these 4 areas, all are connected with 24 Fiber optic filament cables that come from the computer room located in the main building.
+The areas listed above are all connected with a 24 Fiber optic filament cable that comes from the computer room located in the main building.
 
 A Fiber optic splice enclosure (MUFA) was used on the calibration hill, the fiber optic filaments inside the MUFA were separated into 4 separate fiber optic cables. Each one of these cables was routed towards each location as shown in the image below. 
 
@@ -124,12 +126,10 @@ The fiber optic filaments were numbered and broken down the following way:
 Calibration Telescope
 ----------------------
 
-There are 12 single-mode fiber-optic connections that exit the computer room and end up at the optical terminal located in the calibration telescope.
+There are 12 single-mode fiber-optic connections that exit optical splice enclosure (MUFA) located at the calibration hill, these fiber optic connections make their way towards the optical terminal located in the calibration telescope.
 
 
-These fiber-optic connections have an optical header that's located inside the Auxtel rack.
-
-These fiber optic connections utilize LC/UPC full-duplex transmissions.
+These fiber-optic connections have an optical header that's located inside the Auxtel rack and utilize LC/UPC full-duplex connectors. 
 
 The calibration telescope building consists of 2 floors.
 
@@ -148,7 +148,7 @@ Auxtel
 - 2 PDUs
 
 
-The following network diagram illustrates the connections and components for both the first and second floor of the Auxtel building utilizing the same rack.
+The following network diagram illustrates the connections and components used for both the first and second floor of the Auxtel building utilizing the same rack.
 
 
 First Floor Image:
@@ -192,7 +192,7 @@ The following places were connected in Villa Pachon:
 
 
 
-The image below illustrates the sector considered as the "Villa Pachon project", it also shows what the project will look like in the future once its finished and all fiber optic connections setup and installed.
+The image below illustrates the sector considered as the "Villa Pachon project", it also shows how the project will look like in the future once its finished and all fiber optic connections are setup and installed.
 
 
 Villa Pachon Image
@@ -218,11 +218,11 @@ Villa Pachon Image
 Main Generator
 ================
 
-The idea to connect the main generator was born from the necessity of monitoring the generator during use.
+The idea to connect the main generator room was born from the necessity of monitoring the generator during use.
 
-IT installed 24 single-mode fiber optic filaments where 12 of them are connected to the optical terminal located inside the main generator room. As for the other 12 filaments, these are also available in case any other future requirements are born.
+IT installed 24 single-mode fiber optic filaments where 12 of them are connected to the optical terminal located inside the main generator room. As for the other 12 filaments were left available for use in case any other future requirements are born.
 
-It is also important to mention that an industrial 8 port switch was also installed in the main generator room inside a protective box. The purpose of this switch was to set up a phone in case of emergencies or any other activities that require its use. Additionally, both an access point and a camera were set up for surveillance and wifi connectivity all inside the main generator area.
+It is also important to mention that an industrial 8 port switch was also installed in the main generator room inside a protective box. The purpose of this switch was to set up a phone in case of any emergencies or activities that require its use. Additionally an access point and a camera were set up for surveillance and wifi connectivity all inside the main generator area.
 
 The backbone of this connection comes from the second floor, passes through the optical terminal located on the first floor of the main building, and continues its way towards an optical terminal located inside the main generator room where the box with the switch is located.  
 
