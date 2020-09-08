@@ -56,11 +56,31 @@
 Introduction
 ============
 
-The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This documentation also reflects how the physical network of the calibration hill is built by putting an emphasis on the fact that the project is still undergoing construction and will undergo continuous changes in the near future. These changes include additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that the project can operate at maximum performance in the operations phase.
-
-Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX). It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
+The purpose of this document is to provide information related to the installation, materials used, network point areas, and the number of fiber filaments used per floor. This documentation also reflects how the physical network of the calibration hill, main generator room and Villa Pachon is built by putting an emphasis on the fact that the project is still undergoing construction and will undergo continuous changes in the near future. These changes include additional network points or removing those that are already in place. The materials used for this project were all selected based on their quality and technical properties so that the project can operate at maximum performance in the operations phase.
 
 
+
+Current Deployment
+==================
+
+
+Materials Used 
+--------------
+
+Fiber:
+^^^^^^
+
+Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX).
+
+In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
+
+Copper:
+^^^^^^^
+
+It is also noted that UTP S/FTP cables were also selected due to the cable properties and ability to work at 10GBASE-T speeds. All network points were installed with this type of cable, both the access points and telephony connection systems. In regard to end-user devices, UTP CAT6 was setup. 
+
+Component Features 
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: /_static/Tabla.PNG
    :name: Tabla
@@ -69,15 +89,13 @@ Single-mode fiber was selected and installed due to its technical properties hen
             
 
 
-
-
-
 Areas of interest
-----------------------------------------
+=================
 
 - Calibration Hill
+- Main Generator room
 - Villa Pachon
-- Generator Main
+
 
 This document explains briefly the various connections used, both copper and fiber for the areas located in Cerro Pachon.
 
@@ -85,7 +103,7 @@ As a reminder, all fiber optic connections are born inside the second floor of t
 
 
 Calibration Hill
-=================
+================
 
 The calibration hill is composed of the following areas:
 
@@ -111,8 +129,6 @@ Calibration Hill image
    :width: 700 px
 
 
-
-
 The fiber optic filaments were numbered and broken down the following way:
 
 - (1 - 12)          Fiber optics for AuxTel
@@ -125,13 +141,7 @@ The fiber optic filaments were numbered and broken down the following way:
 
 Calibration Telescope
 ----------------------
-
-There are 12 single-mode fiber-optic connections that exit optical splice enclosure (MUFA) located at the calibration hill, these fiber optic connections make their way towards the optical terminal located in the calibration telescope.
-
-
-These fiber-optic connections have an optical header that's located inside the Auxtel rack and utilize LC/UPC full-duplex connectors. 
-
-The calibration telescope building consists of 2 floors.
+The calibration telescope building consists of two floors, in this area there are 12 single-mode fiber-optic connections that exit the optical splice enclosure (MUFA) located at the calibration hill, these fiber optic connections make their way towards the optical terminal located in the calibration telescope. These fiber-optic connections have an optical header that's located inside the Auxtel rack and utilize LC/UPC full-duplex connectors. 
 
 
 In the Auxtel building, the floors have the following characteristics in terms of the materials used and the numbering of the various network points. 
@@ -160,9 +170,6 @@ First Floor Image:
 
 
 
-
-
-
 Second Floor Image:
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -171,52 +178,8 @@ Second Floor Image:
    :width: 700 px
 
 
-
-
-Villa Pachon
-=============
-
-The need to connect Villa Pachon to the computer room located inside the main building arose from the fact that the current connection was not reliable enough in this sector. Additionally, other areas inside the Villa which did not have connectivity were also incorporated into this connection to the computer room. 
-
-
-To carry out this task, IT installed 24 Fiber Optic filaments from the computer room in rack A7 towards the sector known as Villa Pachon. 
-
-The following places were connected in Villa Pachon: 
-
-- Rubin Casino     F.O 1-2-3-4
-- Water Control    F.O 5-6-7-8 
-- Ex-Besalco       F.O 9-10-11-12
-- Villa Generator  F.O 13-14-15-16
-- Earthcam         F.O 17-18-19-20
-- Mirror Shed      F.O 21-22-23-24
-
-
-
-The image below illustrates the sector considered as the "Villa Pachon project", it also shows how the project will look like in the future once its finished and all fiber optic connections are setup and installed.
-
-
-Villa Pachon Image
---------------------
-
-
-
-.. figure:: /_static/Villa-1.PNG
-   :name: Villa
-   :width: 700 px
-
-
-
-
-
-
-
-
-
-
-
-
-Main Generator
-================
+Main Generator Room
+===================
 
 The idea to connect the main generator room was born from the necessity of monitoring the generator during use.
 
@@ -246,17 +209,56 @@ Main Generator Image
 
 
 
+Villa Pachon
+============
+
+The need to connect Villa Pachon to the computer room located inside the main building arose from the fact that the current connection was not reliable enough in this sector. Additionally, other areas inside the Villa which did not have connectivity were also incorporated into this connection to the computer room. 
+
+
+To carry out this task, IT installed 24 Fiber Optic filaments backbone cable from the computer room in rack A7 towards the sector known as Villa Pachon in which its divided in to the following areas:
+
+- Rubin Casino     F.O 1-2-3-4      
+- Water Control    F.O 5-6-7-8      
+- Ex-Besalco       F.O 9-10-11-12   
+- Villa Generator  F.O 13-14-15-16  
+- Earthcam         F.O 17-18-19-20  
+- Mirror Shed      F.O 21-22-23-24
+
+As to this year 2020 the following areas are connected and operational.
+
+- Ex-Besalco      (Completed)     
+- Villa Generator (Completed)
+
+
+Activities planned for FY21/22
+==============================
+
+Villa Pachon
+------------
+
+For FY21/22 we expect to connect the remaining areas to the 24 Fiber Optic backbone cable.
+
+- Rubin Casino     F.O 1-2-3-4      (Pending)
+- Water Control    F.O 5-6-7-8      (Pending)
+- Earthcam         F.O 17-18-19-20  (Pending)
+- Mirror Shed      F.O 21-22-23-24  (Pending)
 
 
 
+The image below illustrates the sector considered as the "Villa Pachon project", it also shows how the project will look like in the future once its finished and all fiber optic connections are setup and installed.
 
 
+Villa Pachon Image for FY21/22
+------------------------------
 
+.. figure:: /_static/Villa-1.PNG
+   :name: Villa
+   :width: 700 px
 
+Acronyms
+========
 
-
-
-.. Do not include the document title (it's automatically added from metadata.yaml).
+.. include:: document.rst 
 
 .. .. rubric:: References
 
