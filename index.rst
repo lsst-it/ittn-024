@@ -70,7 +70,7 @@ Materials Used
 Fiber:
 ^^^^^^
 
-Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX).
+Single-mode fiber was selected and installed due to its technical properties hence it provides an unlimited transmission limit. This fiber will only be used for the equipment that functions as a transmitter (TX) and receiver (RX).
 
 In some occasions, multi-mode fiber cable connections will be set up and installed for any technical equipment that requires it.
 
